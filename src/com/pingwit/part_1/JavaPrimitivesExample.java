@@ -5,7 +5,7 @@ public class JavaPrimitivesExample {
         /*
         byte 2^8 -> 256 /2 -> -128 +0 +127
         short 2^16 -> 65536 -> -32768 +32767
-        char 2^16 -> 0 65536
+        char 2^16 -> 0 65535
         int 2^32
         long 2^64
          */
